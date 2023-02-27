@@ -7,7 +7,9 @@
   },
   "scripts": {
     "start": "parcel src/index.html --open",
-    "build:parcel": "parcel build src/index.html",
+
+    "start": "react",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
