@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "parcel src/index.html --open",
-    "build": "npm run build",
+    "build": "np",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
